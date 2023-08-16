@@ -1,8 +1,8 @@
 # save-mountain-app
-這是使用flutter做出來的App。首頁有四個國家公園，這裡預計會放一些旅遊資訊給使用者。點開第一頁的選擇一座國家公園。接著就會直接跳到他的官網，如果使用者想知道更多關於這座國家公園資訊的話，便可以點開這個連結，這樣就不用去每個官網去查詢，而是用APP就能夠知道所有的資訊。
+This is an app developed using Flutter. The homepage features four national parks, each intended to provide users with travel information. Upon selecting a national park from the first page, users will be directed to its official website. If users desire more information about a specific national park, they can access this link. This approach eliminates the need to individually search each official website, allowing users to access all the information through the app.
 
-我們目前一共做了3個步道。步道的頁面預計會結合感測器，做成即時資料傳遞的地圖。點開垃圾桶，便可以獲得一個0%~100%數值，用於讓使用者知道垃圾桶還剩的容量。
+Currently, there are three hiking trails available. The trail pages are designed to incorporate sensors, creating real-time data transmission on the map. Tapping on a trash bin icon provides a value ranging from 0% to 100%, indicating the remaining capacity of the bin. This feature informs users about the available space in the trash bin.
 
-接著是步道人數，這個步道人數的用意就是讓遊客知道這個地方的人潮。以此避開人潮眾多的地方。
+Furthermore, there is a feature displaying the number of people on the trail. The purpose of this feature is to help visitors gauge the crowd density at a particular location, enabling them to avoid heavily congested areas.
 
-最後這個地圖上有幾個廁所的圖示，讓使用者不會因為找不到廁所，而隨地便溺。完美達成淨化山林的需求
+Lastly, the map displays restroom icons to guide users and prevent them from relieving themselves in inappropriate places. This setup contributes to the preservation of the natural environment.
